@@ -1,16 +1,19 @@
 # heighway-dragon
-The Heighway dragon (also known as the Harter–Heighway dragon or the Jurassic Park dragon) was first investigated by NASA physicists John Heighway, Bruce Banks, and William Harter. It was described by Martin Gardner in his Scientific American column Mathematical Games in 1967. Many of its properties were first published by Chandler Davis and Donald Knuth. It appeared on the section title pages of the Michael Crichton novel Jurassic Park.
+**The Heighway dragon** (also known as the Harter–Heighway dragon) was first investigated by NASA physicists *John Heighway*, *Bruce Bank*s, and *William Harter*. It was described by Martin Gardner in his Scientific American column Mathematical Games in 1967. Many of its properties were first published by Chandler Davis and Donald Knuth. It appeared on the section title pages of the Michael Crichton novel Jurassic Park.
 
-Construction[edit]
+#### Construction
 Recursive construction of the curve
 It can be written as a Lindenmayer system with
 
-angle 90°
-initial string FX
-string rewriting rules
-X ↦ X+YF+
-Y ↦ −FX−Y.
+- angle 90°
+- initial string FX
+- string rewriting rules
+  - X ↦ X+YF+
+  - Y ↦ −FX−Y.
+
 That can be described this way : Starting from a base segment, replace each segment by 2 segments with a right angle and with a rotation of 45° alternatively to the right and to the left:
+
+![Iteration of the recusrions](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Dragon_curve_iterations_%282%29.svg/1600px-Dragon_curve_iterations_%282%29.svg.png)
 
 The first 5 iterations and the 9th
 The Heighway dragon is also the limit set of the following iterated function system in the complex plane:
