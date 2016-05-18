@@ -26,6 +26,7 @@ with the initial set of points ![S_0=\{0,1\}.](https://upload.wikimedia.org/math
 
 Using pairs of real numbers instead, this is the same as the two functions consisting of
 
-f_1(x,y)= \frac{1}{\sqrt{2}}\begin{pmatrix} \cos 45^\circ & -\sin 45^\circ \\ \sin 45^\circ & \cos 45^\circ \end{pmatrix} \begin{pmatrix} x \\ y \end{pmatrix}
-f_2(x,y)= \frac{1}{\sqrt{2}}\begin{pmatrix} \cos 135^\circ & -\sin 135^\circ \\ \sin 135^\circ & \cos 135^\circ \end{pmatrix} \begin{pmatrix} x \\ y \end{pmatrix} + \begin{pmatrix} 1 \\ 0 \end{pmatrix}
+![f_1(x,y)= \frac{1}{\sqrt{2}}\begin{pmatrix} \cos 45^\circ & -\sin 45^\circ \\ \sin 45^\circ & \cos 45^\circ \end{pmatrix} \begin{pmatrix} x \\ y \end{pmatrix}](https://upload.wikimedia.org/math/8/0/1/801344ad38e2207a7260f0a8c26905f6.png)
+
+![f_2(x,y)= \frac{1}{\sqrt{2}}\begin{pmatrix} \cos 135^\circ & -\sin 135^\circ \\ \sin 135^\circ & \cos 135^\circ \end{pmatrix} \begin{pmatrix} x \\ y \end{pmatrix} + \begin{pmatrix} 1 \\ 0 \end{pmatrix}](https://upload.wikimedia.org/math/2/9/f/29ff4a41acede9fd4cefc405a7b3892b.png)
 This representation is more commonly used in software such as Apophysis.
