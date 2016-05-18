@@ -39,4 +39,4 @@ You'll need to include the StdDraw class in your repository. The program (*Fract
 ```Java
 n = 15;
 ```
-<img src="https://raw.githubusercontent.com/araltasher/heighway-dragon/master/heighwayDragon.gif" alt="dragon-demo" width="250"/>
+<img src="https://raw.githubusercontent.com/araltasher/heighway-dragon/master/heighwayDragon.gif" alt="dragon-demo" width="400"/>
