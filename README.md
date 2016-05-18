@@ -39,5 +39,4 @@ The Java takes in an input *"n"* for number of iterations. For example
 ```Java
 n = 15;
 ```
-
-![dragon-demo]()
+<img src="https://raw.githubusercontent.com/araltasher/heighway-dragon/master/heighwayDragon.gif" alt="dragon-demo" width="250"/>
