@@ -19,8 +19,10 @@ The first 5 iterations and the 9th
 The Heighway dragon is also the limit set of the following iterated function system in the complex plane:
 
 ![f_1(z)=\frac{(1+i)z}{2}](https://upload.wikimedia.org/math/e/b/8/eb824e09acc7f1d52bba7cf580579b60.png)
+
 ![f_2(z)=1-\frac{(1-i)z}{2}](https://upload.wikimedia.org/math/7/9/3/793eb2f136cbdc920dd8f7f82a7b2266.png)
-with the initial set of points ![https://upload.wikimedia.org/math/3/b/a/3ba42c29168ef1164d0985293b183566.png](S_0=\{0,1\}.)
+
+with the initial set of points ![S_0=\{0,1\}.](https://upload.wikimedia.org/math/3/b/a/3ba42c29168ef1164d0985293b183566.png)
 
 Using pairs of real numbers instead, this is the same as the two functions consisting of
 
