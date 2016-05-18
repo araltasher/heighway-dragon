@@ -34,7 +34,7 @@ This representation is more commonly used in software such as Apophysis.
 
 #### Demo
 
-The Java takes in an input *"n"* for number of iterations. For example
+You'll need to include the StdDraw class in your repository. The program (*Fractal.java*) takes in an input *"n"* for the number of iterations, which decides the complexity of the shape. For example:
 
 ```Java
 n = 15;
