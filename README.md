@@ -40,4 +40,4 @@ The Java takes in an input *"n"* for number of iterations. For example
 n = 15;
 ```
 
-![dragon-demo]()
+![dragon-demo](https://raw.githubusercontent.com/araltasher/heighway-dragon/master/heighwayDragon.gif)
